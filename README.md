@@ -1,4 +1,4 @@
-#### General structure of each two-hour session in the workshop series:
+### General structure of each two-hour session in the workshop series:
 * Guided session
 * Hands-on exercise
 * Project work
@@ -12,7 +12,7 @@ Four sessions are planned in the series with the following time allocations:
 | Session 3 | 70 | 30 | 20 | 120 |
 | Session 4 | 30 | 30 | 60 | 120 |
 
-#### Independent projects:
+### Independent projects:
 Each participant would pick a dataset of their own choice and work on it in subsequent sessions of the workshop. Below is a list of example datasets one can choose from:
 
 * https://www.kaggle.com/c/titanic
@@ -38,7 +38,7 @@ Each participant would pick a dataset of their own choice and work on it in subs
 
 
 
-#### Topics covered in the guided sessions and hands-on exercises:  
+### Topics covered in the guided sessions and hands-on exercises:  
 Session 1: 
 - Reading csv files using `read_csv()`
 - Slicing and indexing dataframes using conditionals as well as `iloc[]` and `loc[]` methods.
@@ -78,11 +78,11 @@ Session 4:
 - Bootstrapping
 - Cross-validation
 
-#### Pre-requisites:
+### Pre-requisites:
 * Python programming basics (CS-5 should suffice)
 * Some familiarity with common statistical concepts (MATH-35 should suffice)
 
 It will be beyond the scope of the workshop series to cover the theory and mathematics behind the machine learning algorithms and participants are encouraged to learn them on their own and deepen their understanding. A gentle introduction will be covered in the workshop series and resource links will be given for self-study. The focus will be on the practical aspects of machine learning and the concepts like feature engineering, overfitting vs underfitting, cross-validation, etc. that are crucial for all varietes of machine learning algorithms.
 
-#### Learning materials:
+### Learning materials:
 All the learning material will be shared on Kaggle and links will be added here. The material is designed to be self-sufficient and useful, even in case one miss some of the sessions or cannot attend the entire workshop series. You are also welcome to join our google group [HMC Machine Learning]() that we plan to use for the workshop as well as future activities.
