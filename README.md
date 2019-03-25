@@ -15,17 +15,15 @@ Four sessions are planned in the series with the following time allocations:
 ### Independent projects:
 Each participant would pick a dataset of their own choice and work on it in subsequent sessions of the workshop. Below is a list of example datasets one can choose from:
 
-* https://www.kaggle.com/c/titanic
-* https://www.kaggle.com/c/house-prices-advanced-regression-techniques
-* https://www.kaggle.com/c/competitive-data-science-predict-future-sales
-* https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python
-* https://www.kaggle.com/c/instacart-market-basket-analysis/data
-* https://www.kaggle.com/c/mercari-price-suggestion-challenge/data
-* https://www.kaggle.com/jessicali9530/kuc-hackathon-winter-2018
-* https://www.kaggle.com/spscientist/students-performance-in-exams
-* https://www.kaggle.com/mehdidag/black-friday
-* https://www.kaggle.com/c/reducing-commercial-aviation-fatalities/data
-* https://www.kaggle.com/c/new-york-city-taxi-fare-prediction
+* [Reducing Commercial Aviation Fatalities](https://www.kaggle.com/c/reducing-commercial-aviation-fatalities/data)
+* [New York City Taxi Fare Prediction](https://www.kaggle.com/c/new-york-city-taxi-fare-prediction)
+* [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
+* [House Prices: Predict sales prices](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+* [Predict Future Sales](https://www.kaggle.com/c/competitive-data-science-predict-future-sales)
+* [New York City Taxi Trip Duration](https://www.kaggle.com/c/nyc-taxi-trip-duration/data)
+* [Bike Sharing Demand](https://www.kaggle.com/c/bike-sharing-demand/data)
+* [Instacart Market Basket Analysis](https://www.kaggle.com/c/instacart-market-basket-analysis/data)
+* [Mercari Price Suggestion Challenge](https://www.kaggle.com/c/mercari-price-suggestion-challenge/data)
 
 
 [Kaggle Competitions](https://www.kaggle.com/competitions) (past and current) as well as [Kaggle Datasets](https://www.kaggle.com/datasets) are an excellent resource to find datasets. Below are a few suggestions to note if you want to pick a dataset from outside the above list:
