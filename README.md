@@ -76,5 +76,9 @@ It will be beyond the scope of the workshop series to cover the theory and mathe
 ### Learning materials:
 All the learning material will be shared on Kaggle and links will be added here. The material is designed to be self-sufficient and useful, even in case one miss some of the sessions or cannot attend the entire workshop series. You are also welcome to join our google group [HMC Machine Learning](https://groups.google.com/forum/#!forum/hmc-machine-learning) that we plan to use for the workshop as well as future activities.
 
+### Team:
+Instructor: Aashita Kesarwani
+TAs: Rex Asabor, Ben Langton and Qualan Woodard
+
 
 Seats are limited, please register using [this link](https://forms.gle/wFA1q9eqG3hgn2xN6). It is important that you attend all four sessions of the series for it to be useful.
