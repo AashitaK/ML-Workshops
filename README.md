@@ -37,26 +37,22 @@ Each participant would pick a dataset of their own choice and work on it in subs
 
 
 ### Topics covered in the guided sessions and hands-on exercises:  
-Session 1: Data manipulation and feature engineering using pandas - 1
-- Reading csv files using `read_csv()`
+Session 1: Data manipulation and feature engineering using `pandas` - 1
+- Reading csv files 
 - Slicing and indexing dataframes using conditionals as well as `iloc[]` and `loc[]` methods.
-- Statistical summary and exploration using `describe()`, `median()`, `mean()`, `idxmax()`, `corr()`, etc.
-- Detecting and filling missing values in the dataset using `isnull()` and `fillna()`
-- Dropping columns using `drop()`.
-- Basic operations such as `set_index()`, `replace()`, `value_counts()`, `columns`, `index`, etc.
+- Statistical summary and exploration 
+- Detecting and filling missing values in the dataset 
 - Regular expressions for data extraction
-- Feature engineering such as creating a new feature for titles.
-- Some basic plots
+- Feature engineering such as creating new features 
+- Basic plots
 - Correlation among features
+- Basic operations such as dropping rows/column, setting index, replacing values of a column using a dictionary, etc.
 
-Session 2: Data manipulation and feature engineering using pandas - 2
-- Datatypes of features
-- One-hot encoding for categorical variables using `get_dummies()`
-- Concatentating two dataframes using `concat()`
-- Split-apply-combine operations using `groupby()` and `transform()`
-- Merging dataframes using `merge()`
-- Sorting the rows of the dataframe using `sort_values()`
-- Creating a dataframe using `DataFrame()`
+Session 2: Data manipulation and feature engineering using `pandas` - 2
+- One-hot encoding for categorical variables 
+- Concatentating and merging dataframes 
+- Split-apply-combine operations by grouping rows of a dataframe 
+- More operations such as sorting the rows, creating a dataframe from the scratch, etc. 
 
 Session 3: Model building, tuning and testing - 1
 - Splitting dataset into training and testing sets
