@@ -68,8 +68,8 @@ Session 4: Model building, tuning and testing - 2
 - Cross-validation
 
 ### Pre-requisites:
-* Python programming basics (CS-5 should suffice)
-* Some familiarity with common statistical concepts (MATH-35 should suffice)
+* Python programming basics (HMC CS-5 or equivalent should suffice)
+* Some familiarity with common statistical concepts (HMC MATH-35 or equivalent should suffice)
 
 It will be beyond the scope of the workshop series to cover the theory and mathematics behind the machine learning algorithms and participants are encouraged to learn them on their own and deepen their understanding. A gentle introduction will be covered in the workshop series and resource links will be given for self-study. The focus will be on the practical aspects of machine learning and the concepts like feature engineering, overfitting vs underfitting, cross-validation, etc. that are crucial for all varietes of machine learning algorithms, including deep neural networks that will be covered in a future Deep Learning series.
 
