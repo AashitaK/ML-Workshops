@@ -37,7 +37,7 @@ Each participant would pick a dataset of their own choice and work on it in subs
 
 
 ### Topics covered in the guided sessions and hands-on exercises:  
-Session 1: 
+Session 1: Data manipulation and feature engineering using pandas - 1
 - Reading csv files using `read_csv()`
 - Slicing and indexing dataframes using conditionals as well as `iloc[]` and `loc[]` methods.
 - Statistical summary and exploration using `describe()`, `median()`, `mean()`, `idxmax()`, `corr()`, etc.
@@ -49,7 +49,7 @@ Session 1:
 - Some basic plots
 - Correlation among features
 
-Session 2:
+Session 2: Data manipulation and feature engineering using pandas - 2
 - Datatypes of features
 - One-hot encoding for categorical variables using `get_dummies()`
 - Concatentating two dataframes using `concat()`
@@ -58,13 +58,13 @@ Session 2:
 - Sorting the rows of the dataframe using `sort_values()`
 - Creating a dataframe using `DataFrame()`
 
-Session 3:
+Session 3: Model building, tuning and testing - 1
 - Splitting dataset into training and testing sets
 - Bias-variance tradeoff
 - Overfitting and Underfitting
 - Training and testing models for classification and regression.
     
-Session 4:
+Session 4: Model building, tuning and testing - 2
 - Fine tuning hyperparameters
 - Measures to address overfitting such as using regularization, reducing features using Principal Component Analysis (PCA), etc.
 - Selecting evaluation metrics such as accuracy, precision, recall, F-1 score, etc.
