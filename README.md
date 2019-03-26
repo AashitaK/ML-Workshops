@@ -59,21 +59,16 @@ Session 2:
 - Creating a dataframe using `DataFrame()`
 
 Session 3:
+- Splitting dataset into training and testing sets
+- Bias-variance tradeoff
 - Overfitting and Underfitting
-- Train and test split
-- Missing values
-- Fit and predict model
-- Test different models
-    - Classification: Logistic, Decision Trees, SVM, Random Forest, GBT, kNN
-    - Regression: Linear, Lasso Regression
+- Training and testing models for classification and regression.
     
 Session 4:
-- Test different models: Regression
-- Fine tuning to address under and overfitting
-- Principal Component Analysis (PCA)
-- Visualization of decision boundaries
-- Evaluation metrics
-- Bootstrapping
+- Fine tuning hyperparameters
+- Measures to address overfitting such as using regularization, reducing features using Principal Component Analysis (PCA), etc.
+- Selecting evaluation metrics such as accuracy, precision, recall, F-1 score, etc.
+- Bootstrapping models
 - Cross-validation
 
 ### Pre-requisites:
