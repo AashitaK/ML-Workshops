@@ -37,9 +37,9 @@ Each participant would pick a dataset of their own choice and work on it in subs
 
 
 ### Topics covered in the guided sessions and hands-on exercises:  
-Session 1: Data manipulation and feature engineering using `pandas` - 1
+Session 1: Data manipulation and feature engineering using pandas - 1
 - Reading csv files 
-- Slicing and indexing dataframes using conditionals as well as `iloc[]` and `loc[]` methods.
+- Slicing and indexing dataframes using conditionals as well as iloc and loc methods.
 - Statistical summary and exploration 
 - Detecting and filling missing values in the dataset 
 - Regular expressions for data extraction
@@ -48,7 +48,7 @@ Session 1: Data manipulation and feature engineering using `pandas` - 1
 - Correlation among features
 - Basic operations such as dropping rows/column, setting index, replacing values of a column using a dictionary, etc.
 
-Session 2: Data manipulation and feature engineering using `pandas` - 2
+Session 2: Data manipulation and feature engineering using pandas - 2
 - One-hot encoding for categorical variables 
 - Concatentating and merging dataframes 
 - Split-apply-combine operations by grouping rows of a dataframe 
