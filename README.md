@@ -65,7 +65,7 @@ Session 4: Model building, tuning and testing - 2
 - Fine tuning hyperparameters
 - Regularization
 - Dimensionality reduction techniques such as Principal Component Analysis (PCA), Linear Discriminant Analysis (LDA), etc.
-- Selecting evaluation metrics such as accuracy, precision, recall, F-1 score, etc.
+- Selecting evaluation metrics such as accuracy, precision, recall, F-1 score, ROC curve, etc.
 - Bootstrapping models
 - Cross-validation
 
