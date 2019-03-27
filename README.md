@@ -61,6 +61,7 @@ Session 3: Model building, tuning and testing - 1
 - Training and testing models for classification and regression.
     
 Session 4: Model building, tuning and testing - 2
+- Normalization and Scaling of features
 - Fine tuning hyperparameters
 - Regularization
 - Dimensionality reduction techniques such as Principal Component Analysis (PCA), Linear Discriminant Analysis (LDA), etc.
