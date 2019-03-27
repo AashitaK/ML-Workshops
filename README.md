@@ -58,9 +58,8 @@ Session 2: Data exploration and feature engineering using pandas - 2
 
 Session 3: Model building, tuning and testing - 1
 - Splitting dataset into training and testing sets
-- Bias-variance tradeoff
-- Overfitting and Underfitting
-- Training and testing models for classification and regression.
+- Bias-variance tradeoff, overfitting and underfitting of models
+- Training and testing models for classification and regression
     
 Session 4: Model building, tuning and testing - 2
 - Fine tuning hyperparameters
