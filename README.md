@@ -37,18 +37,19 @@ Each participant would pick a dataset of their own choice and work on it in subs
 
 
 ### Topics covered in the guided sessions and hands-on exercises:  
-Session 1: Data manipulation and feature engineering using pandas - 1
-- Reading csv files 
+Session 1: Data exploration and feature engineering using pandas - 1
+- Pandas dataframes as the central data structure for datasets
+- Converting csv files to dataframes 
 - Slicing and indexing dataframes using conditionals as well as iloc and loc methods.
-- Statistical summary and exploration 
-- Detecting and filling missing values in the dataset 
+- Statistical summary and exploration of dataframes
+- Detecting and filling missing values in the dataframes 
 - Regular expressions for data extraction
 - Feature engineering such as creating new features 
 - Basic plots
 - Correlation among features
-- Basic operations such as dropping rows/column, setting index, replacing values of a column using a dictionary, etc.
+- Basic operations such as dropping rows/columns, setting index, replacing values of a column using a dictionary, etc.
 
-Session 2: Data manipulation and feature engineering using pandas - 2
+Session 2: Data exploration and feature engineering using pandas - 2
 - One-hot encoding for categorical variables 
 - Concatentating and merging dataframes 
 - Split-apply-combine operations by grouping rows of a dataframe 
