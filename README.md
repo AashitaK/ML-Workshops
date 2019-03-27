@@ -7,7 +7,7 @@ Four sessions are planned in the series with the following time allocations:
 
 | Sessions | Guided session (min) | Hands-on exercise (min) | Project work (min) | Total time (min) |
 |----------|:----------:|:----------:|:----------:|:----------------:|
-| 1 | 60 | 45 | 15 | 120 |
+| 1 | 50 | 45 | 20 | 120 |
 | 2 | 30 | 45 | 45 | 120 |
 | 3 | 70 | 30 | 20 | 120 |
 | 4 | 30 | 30 | 60 | 120 |
@@ -38,7 +38,7 @@ Each participant would pick a dataset of their own choice and work on it in subs
 
 ### Topics covered in the guided sessions and hands-on exercises:  
 Session 1: Data exploration and feature engineering using pandas - 1
-- Pandas dataframes as the central data structure for datasets
+- Pandas dataframes as the data structure for datasets
 - Converting csv files to dataframes 
 - Slicing and indexing dataframes using conditionals as well as iloc and loc methods.
 - Statistical summary and exploration of dataframes
@@ -54,6 +54,7 @@ Session 2: Data exploration and feature engineering using pandas - 2
 - Concatentating and merging dataframes 
 - Split-apply-combine operations by grouping rows of a dataframe 
 - More operations such as sorting the rows, creating a dataframe from the scratch, etc. 
+- Normalization and Scaling of features
 
 Session 3: Model building, tuning and testing - 1
 - Splitting dataset into training and testing sets
@@ -62,7 +63,6 @@ Session 3: Model building, tuning and testing - 1
 - Training and testing models for classification and regression.
     
 Session 4: Model building, tuning and testing - 2
-- Normalization and Scaling of features
 - Fine tuning hyperparameters
 - Regularization
 - Dimensionality reduction techniques such as Principal Component Analysis (PCA), Linear Discriminant Analysis (LDA), etc.
