@@ -62,7 +62,8 @@ Session 3: Model building, tuning and testing - 1
     
 Session 4: Model building, tuning and testing - 2
 - Fine tuning hyperparameters
-- Measures to address overfitting such as using regularization, dimensionality reduction using Principal Component Analysis (PCA), etc.
+- Regularization
+- Dimensionality reduction techniques such as Principal Component Analysis (PCA), Linear Discriminant Analysis (LDA), etc.
 - Selecting evaluation metrics such as accuracy, precision, recall, F-1 score, etc.
 - Bootstrapping models
 - Cross-validation
