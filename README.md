@@ -54,7 +54,7 @@ Session 2: Exploratory Data Analysis and Feature Engineering using Pandas - 2
 - Concatentating and merging dataframes 
 - Split-apply-combine operations by grouping rows of a dataframe 
 - More operations such as sorting the rows, creating a dataframe from the scratch, etc. 
-- Normalization and Scaling of features
+- Normalization and scaling of features
 
 Session 3: Model building, tuning and testing - 1
 - Splitting dataset into training and testing sets
