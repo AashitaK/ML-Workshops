@@ -7,8 +7,8 @@ Four sessions are planned in the series with the following time allocations:
 
 | Sessions | Guided session (min) | Hands-on exercise (min) | Project work (min) | Total time (min) |
 |----------|:----------:|:----------:|:----------:|:----------------:|
-| 1 | 50 | 45 | 20 | 120 |
-| 2 | 30 | 45 | 45 | 120 |
+| 1 | 50 | 60 | 10 | 120 |
+| 2 | 30 | 60 | 30 | 120 |
 | 3 | 70 | 30 | 20 | 120 |
 | 4 | 30 | 30 | 60 | 120 |
 
