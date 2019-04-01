@@ -9,7 +9,7 @@ Four sessions are planned in the series with the following time allocations:
 |----------|:----------:|:----------:|:----------:|:----------------:|
 | 1 | 50 | 60 | 10 | 120 |
 | 2 | 30 | 60 | 30 | 120 |
-| 3 |\2. 80 | 40 | 120 |
+| 3 | 80 | -  | 40 | 120 |
 | 4 | 30 | 30 | 60 | 120 |
 
 ### Independent projects:
