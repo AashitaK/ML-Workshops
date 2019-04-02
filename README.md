@@ -11,9 +11,7 @@ Session 2: 5:30-7:30 pm on Thursday April 4, 2019
 Session 3: 5:30-7:30 pm on Thursday April 11, 2019 at Aviation Room, HMC
 Session 4: 5:30-7:30 pm on Thursday April 11, 2019 
 
-This series is a precursor to a future Deep Learning workshop series. The series will focus on concepts such as feature engineering, bias-variance tradeoff, overfitting vs underfitting, cross-validation, data leakage, etc. that will come-in handy for all varieties of machine learning models.
-
-
+This series is a precursor to a future Deep Learning workshop series. 
 
 ### General structure of each two-hour session in the workshop series:
 * Guided session
