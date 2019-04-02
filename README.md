@@ -6,10 +6,10 @@ The workshop series is designed with a focus on the practical aspects of machine
 The four-session workshop is going to be very hands-on and will focus on how to work with datasets. Instead of comprehensively covering every tool and concept, you will learn the minimal but most useful tools quickly and how to find other resources to explore further.  
 
 Timeline:
-Session 1: 5:30-7:30 pm on Thursday March 28, 2019 at Aviation Room, HMC
-Session 2: 5:30-7:30 pm on Thursday April 4, 2019
-Session 3: 5:30-7:30 pm on Thursday April 11, 2019 at Aviation Room, HMC
-Session 4: 5:30-7:30 pm on Thursday April 11, 2019 
+Session 1: 5:30-7:30 pm on Thursday March 28, 2019 at Aviation Room, HMC   
+Session 2: 5:30-7:30 pm on Thursday April 4, 2019  
+Session 3: 5:30-7:30 pm on Thursday April 11, 2019 at Aviation Room, HMC 
+Session 4: 5:30-7:30 pm on Thursday April 11, 2019   
 
 This series is a precursor to a future Deep Learning workshop series. 
 
