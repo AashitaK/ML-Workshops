@@ -71,12 +71,12 @@ Session 2: Exploratory Data Analysis and Feature Engineering using Pandas - 2
 - More operations such as sorting the rows, creating a dataframe from the scratch, etc. 
 - Normalization and scaling of features
 
-Session 3: Model building, tuning and testing - 1
+Session 3: Model Building, Tuning and Testing - 1
 - Splitting dataset into training and testing sets
 - Bias-variance tradeoff, overfitting and underfitting of models
 - Training and testing models for classification and regression
     
-Session 4: Model building, tuning and testing - 2
+Session 4: Model Building, Tuning and Testing - 2
 - Fine tuning hyperparameters
 - Regularization
 - Dimensionality reduction techniques such as Principal Component Analysis (PCA), Linear Discriminant Analysis (LDA), etc.
