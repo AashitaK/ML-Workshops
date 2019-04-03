@@ -65,9 +65,9 @@ Session 1: Exploratory Data Analysis and Feature Engineering using Pandas - 1
 - Basic operations such as dropping rows/columns, setting index, replacing values of a column using a dictionary, etc.
 
 Session 2: Exploratory Data Analysis and Feature Engineering using Pandas - 2
-- One-hot encoding for categorical variables 
-- Concatentating and merging dataframes 
 - Split-apply-combine operations by grouping rows of a dataframe 
+- Encoding categorical variables 
+- Concatentating and merging dataframes 
 - More operations such as sorting the rows, creating a dataframe from the scratch, etc. 
 
 Session 3: Model Building, Tuning and Testing - 1
