@@ -24,8 +24,8 @@ Four sessions are planned in the series with the following time allocations:
 |----------|:----------:|:----------:|:----------:|:----------------:|
 | 1 | 50 | 60 | 10 | 120 |
 | 2 | 30 | 60 | 30 | 120 |
-| 3 | 80 | -  | 40 | 120 |
-| 4 | 30 | 30 | 60 | 120 |
+| 3 | 100 | -  | 20 | 120 |
+| 4 | 70 | - | 50 | 120 |
 
 ### Independent projects:
 Each participant would pick a dataset of their own choice and work on it in subsequent sessions of the workshop. Below is a list of example datasets one can choose from:
@@ -77,7 +77,7 @@ Session 2: Exploratory Data Analysis and Feature Engineering using Pandas - 2
 Session 3: Model Building, Tuning and Testing - 1
 - Splitting dataset into training and testing sets
 - Bias-variance tradeoff, overfitting and underfitting of models
-- Training and testing models for classification and regression
+- Training and validation of models for classification and regression
 - Normalization and scaling of features
     
 Session 4: Model Building, Tuning and Testing - 2
@@ -86,7 +86,7 @@ Session 4: Model Building, Tuning and Testing - 2
 - Dimensionality reduction techniques such as Principal Component Analysis (PCA), Linear Discriminant Analysis (LDA), etc.
 - Selecting evaluation metrics such as accuracy, precision, recall, F-1 score, ROC curve, etc.
 - Bootstrapping models
-- Cross-validation
+- k-fold cross-validation
 
 ### Pre-requisites:
 * Python programming basics (HMC CS-5 or equivalent should suffice)
