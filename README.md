@@ -25,7 +25,7 @@ Four sessions are planned in the series with the following time allocations:
 | 1 | 50 | 60 | 10 | 120 |
 | 2 | 30 | 60 | 30 | 120 |
 | 3 | 100 | -  | 20 | 120 |
-| 4 | 60 | - | 60 | 120 |
+| 4 | 70 | - | 50 | 120 |
 
 ### Independent projects:
 Each participant would pick a dataset of their own choice and work on it in subsequent sessions of the workshop. Below is a list of example datasets one can choose from:
