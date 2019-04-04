@@ -33,9 +33,11 @@ Each participant would pick a dataset of their own choice and work on it in subs
 Simplest:  
 * [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
 * [House Prices: Predict sales prices](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+
 More involved:
 * [Predict Future Sales](https://www.kaggle.com/c/competitive-data-science-predict-future-sales)
 * [Bike Sharing Demand](https://www.kaggle.com/c/bike-sharing-demand/data)
+
 Somewhat challenging:
 * [New York City Taxi Fare Prediction](https://www.kaggle.com/c/new-york-city-taxi-fare-prediction)
 * [New York City Taxi Trip Duration](https://www.kaggle.com/c/nyc-taxi-trip-duration/data)
