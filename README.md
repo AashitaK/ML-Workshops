@@ -77,7 +77,7 @@ Session 2: Exploratory Data Analysis and Feature Engineering using Pandas - 2
 Session 3: Model Building, Tuning and Testing - 1
 - Splitting dataset into training and testing sets
 - Bias-variance tradeoff, overfitting and underfitting of models
-- Training and testing models for classification and regression
+- Training and validation of models for classification and regression
 - Normalization and scaling of features
     
 Session 4: Model Building, Tuning and Testing - 2
@@ -86,7 +86,7 @@ Session 4: Model Building, Tuning and Testing - 2
 - Dimensionality reduction techniques such as Principal Component Analysis (PCA), Linear Discriminant Analysis (LDA), etc.
 - Selecting evaluation metrics such as accuracy, precision, recall, F-1 score, ROC curve, etc.
 - Bootstrapping models
-- Cross-validation
+- k-fold cross-validation
 
 ### Pre-requisites:
 * Python programming basics (HMC CS-5 or equivalent should suffice)
