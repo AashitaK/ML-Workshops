@@ -7,9 +7,9 @@ The four-session workshop is going to be very hands-on and will focus on how to 
 
 Timeline:  
 Session 1: 5:30-7:30 pm on Thursday March 28, 2019 at Aviation Room, HMC   
-Session 2: 5:30-7:30 pm on Thursday April 4, 2019, location TBA  
+Session 2: 5:30-7:30 pm on Thursday April 4, 2019 at Shan 5424, HMC
 Session 3: 5:30-7:30 pm on Thursday April 11, 2019 at Aviation Room, HMC    
-Session 4: 5:30-7:30 pm on Thursday April 18, 2019, location TBA   
+Session 4: 5:30-7:30 pm on Thursday April 18, 2019 at Shan 5424, HMC   
 
 This series is a precursor to a future Deep Learning workshop series. 
 
@@ -30,7 +30,6 @@ Four sessions are planned in the series with the following time allocations:
 ### Independent projects:
 Each participant would pick a dataset of their own choice and work on it in subsequent sessions of the workshop. Below is a list of example datasets one can choose from:
 
-* [Reducing Commercial Aviation Fatalities](https://www.kaggle.com/c/reducing-commercial-aviation-fatalities/data)
 * [New York City Taxi Fare Prediction](https://www.kaggle.com/c/new-york-city-taxi-fare-prediction)
 * [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
 * [House Prices: Predict sales prices](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
