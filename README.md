@@ -7,9 +7,9 @@ The four-session workshop is going to be very hands-on and will focus on how to 
 
 Timeline:  
 Session 1: 5:30-7:30 pm on Thursday March 28, 2019 at Aviation Room, HMC   
-Session 2: 5:30-7:30 pm on Thursday April 4, 2019 at Shan 5424, HMC   
+Session 2: 5:30-7:30 pm on Thursday April 4, 2019 at Shan 2454, HMC   
 Session 3: 5:30-7:30 pm on Thursday April 11, 2019 at Aviation Room, HMC    
-Session 4: 5:30-7:30 pm on Thursday April 18, 2019 at Shan 5424, HMC   
+Session 4: 5:30-7:30 pm on Thursday April 18, 2019 at Shan 2454, HMC   
 
 This series is a precursor to a future Deep Learning workshop series. 
 
