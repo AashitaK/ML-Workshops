@@ -30,12 +30,15 @@ Four sessions are planned in the series with the following time allocations:
 ### Independent projects:
 Each participant would pick a dataset of their own choice and work on it in subsequent sessions of the workshop. Below is a list of example datasets one can choose from:
 
-* [New York City Taxi Fare Prediction](https://www.kaggle.com/c/new-york-city-taxi-fare-prediction)
+Simplest:  
 * [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
 * [House Prices: Predict sales prices](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+More involved:
 * [Predict Future Sales](https://www.kaggle.com/c/competitive-data-science-predict-future-sales)
-* [New York City Taxi Trip Duration](https://www.kaggle.com/c/nyc-taxi-trip-duration/data)
 * [Bike Sharing Demand](https://www.kaggle.com/c/bike-sharing-demand/data)
+Somewhat challenging:
+* [New York City Taxi Fare Prediction](https://www.kaggle.com/c/new-york-city-taxi-fare-prediction)
+* [New York City Taxi Trip Duration](https://www.kaggle.com/c/nyc-taxi-trip-duration/data)
 * [Instacart Market Basket Analysis](https://www.kaggle.com/c/instacart-market-basket-analysis/data)
 * [Mercari Price Suggestion Challenge](https://www.kaggle.com/c/mercari-price-suggestion-challenge/data)
 
