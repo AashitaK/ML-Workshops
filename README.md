@@ -22,10 +22,10 @@ Four sessions are planned in the series with the following time allocations:
 
 | Sessions | Guided session (min) | Hands-on exercise (min) | Project work (min) | Total time (min) |
 |----------|:----------:|:----------:|:----------:|:----------------:|
-| 1 | 50 | 60 | 10 | 120 |
-| 2 | 30 | 60 | 30 | 120 |
-| 3 | 30 | 70  | 20 | 120 |
-| 4 | 20 | 50 | 50 | 120 |
+| 1 | 50 | 70 | - | 120 |
+| 2 | 30 | 80 | 10 | 120 |
+| 3 | 30 | 50  | 40 | 120 |
+| 4 | 30 | 60 | 30 | 120 |
 
 ### Independent projects:
 Each participant would pick a dataset of their own choice and work on it in subsequent sessions of the workshop. Below is a list of example datasets one can choose from:
@@ -75,16 +75,28 @@ Session 2: Exploratory Data Analysis and Feature Engineering using Pandas - 2
 - More operations such as sorting the rows, creating a dataframe from the scratch, etc. 
 
 Session 3: Model Building, Tuning and Testing - 1
-- Splitting dataset into training and testing sets
-- Bias-variance tradeoff, overfitting and underfitting of models
-- Training and validation of models for classification and regression
+- Overfitting and underfitting of models
+- Regression algorithms 
+    - Linear regression
+    - Polynomial regression
+    - Rigde regression
+    - Lasso regression
+    - Elastic Net regression
+- Model validation
+- Hypertuning regularization paramter
+- Hypertuning learning rate
+- Evaluation metrics for regression - R-squared and root mean-squared error (RMSE)
 - Normalization and scaling of features
     
 Session 4: Model Building, Tuning and Testing - 2
-- Fine tuning hyperparameters
-- Regularization
-- Dimensionality reduction techniques such as Principal Component Analysis (PCA), Linear Discriminant Analysis (LDA), etc.
-- Selecting evaluation metrics such as accuracy, precision, recall, F-1 score, ROC curve, etc.
+- Classification algorithms 
+    - Logistic regression
+    - Decision trees
+    - k-nearest neighbors
+    - Support vector machines
+    - Random forest
+- Evaluation metrics for classification - accuracy, precision, recall, F-1 score, ROC curve, etc.
+- Dimensionality reduction techniques such as Principal Component Analysis (PCA), etc.
 - Bootstrapping models
 - k-fold cross-validation
 
