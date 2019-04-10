@@ -79,7 +79,7 @@ Session 4: Model Building, Tuning and Testing using Scikit-learn - 2
 It will be beyond the scope of the workshop series to cover the theory and mathematics behind the machine learning algorithms in depth and participants are encouraged to learn them on their own and deepen their understanding. A gentle and intuitive introduction will be covered in the workshop series and resource links will be given for self-study. The focus will be on the practical aspects of machine learning and the concepts like feature engineering, overfitting vs underfitting, cross-validation, etc. that are crucial for all varieties of machine learning algorithms, including deep neural networks that will be covered in a future Deep Learning series.
 
 ### Learning materials:
-The learning material is shared on [Github](https://github.com/AashitaK/ML-Workshops) and is updated after every session. The material is designed to be self-sufficient and useful. 
+The learning material is shared on [Github](https://github.com/AashitaK/ML-Workshops) and is updated after every session. The material is designed to be self-sufficient and useful in case you miss a session. 
 
 ### Team:
 Instructor: Aashita Kesarwani  
