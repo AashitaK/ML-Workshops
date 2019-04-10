@@ -46,7 +46,7 @@ Session 2: Exploratory Data Analysis and Feature Engineering using Pandas - 2
 - Concatentating and merging dataframes 
 - More operations such as sorting the rows, creating a dataframe from the scratch, etc. 
 
-Session 3: Model Building, Tuning and Testing with Scikit-learn - 1
+Session 3: Model Building, Tuning and Testing using Scikit-learn - 1
 - Overfitting and underfitting of models
 - Regression algorithms 
     - Linear regression
@@ -60,7 +60,7 @@ Session 3: Model Building, Tuning and Testing with Scikit-learn - 1
 - Evaluation metrics for regression - R-squared and root mean-squared error (RMSE)
 - Normalization and scaling of features
     
-Session 4: Model Building, Tuning and Testing with Scikit-learn - 2
+Session 4: Model Building, Tuning and Testing using Scikit-learn - 2
 - Classification algorithms 
     - Logistic regression
     - Decision trees
