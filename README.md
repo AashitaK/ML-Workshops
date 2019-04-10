@@ -3,7 +3,7 @@
 The workshop series is designed with a focus on the practical aspects of machine learning. We will be working in Python and using real-world datasets from [Kaggle](https://www.kaggle.com), the machine learning platform most suited for the “learn by doing” philosophy. The series is targeted towards complete beginners familiar with Python, but it is also designed adaptively so that you will be challenged even if you have some familiarity with machine learning tools. 
 
 
-The four-session workshop is going to be very hands-on and will focus on how to work with datasets. Instead of comprehensively covering every tool and concept, you will learn the minimal but most useful tools quickly and how to find other resources to explore further.  
+The four-session workshop is going to be very hands-on and will focus on how to work with datasets. Instead of comprehensively covering every tool and concept, you will learn the minimal but most useful tools and concepts quickly and how to find other resources to explore further.  
 
 Timeline:  
 Session 1: 5:30-7:30 pm on Thursday March 28, 2019 at Aviation Room, HMC   
@@ -26,34 +26,6 @@ Four sessions are planned in the series with the following time allocations:
 | 2 | 30 | 80 | 10 | 120 |
 | 3 | 30 | 50  | 40 | 120 |
 | 4 | 30 | 60 | 30 | 120 |
-
-### Independent projects:
-Each participant would pick a dataset of their own choice and work on it in subsequent sessions of the workshop. Below is a list of example datasets one can choose from:
-
-Simplest:  
-* [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
-* [House Prices: Predict sales prices](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
-
-More involved:
-* [Predict Future Sales](https://www.kaggle.com/c/competitive-data-science-predict-future-sales)
-* [Bike Sharing Demand](https://www.kaggle.com/c/bike-sharing-demand/data)
-
-Somewhat challenging:
-* [New York City Taxi Fare Prediction](https://www.kaggle.com/c/new-york-city-taxi-fare-prediction)
-* [New York City Taxi Trip Duration](https://www.kaggle.com/c/nyc-taxi-trip-duration/data)
-* [Instacart Market Basket Analysis](https://www.kaggle.com/c/instacart-market-basket-analysis/data)
-* [Mercari Price Suggestion Challenge](https://www.kaggle.com/c/mercari-price-suggestion-challenge/data)
-
-
-[Kaggle Competitions](https://www.kaggle.com/competitions) (past and current) as well as [Kaggle Datasets](https://www.kaggle.com/datasets) are an excellent resource to find datasets. Below are a few suggestions to note if you want to pick a dataset from outside the above list:
-* Data must be in tabular format (csv files). We will cover other data formats in Deep Learning workshop series later on. Please don’t pick tabular data stored in Google BigQuery format as it is usually too  big to work with.
-* Prefer past competitions that have a high participation, a lot of shared kernels and many topics in the discussion forum to learn from.
-* Main features must not be textual unless you already know or plan to learn some natural language processing concepts within the time frame.
-* Data size must be manageable with respect to the computation power you have access to, especially important to check for the recent competitions. You can also run notebooks in [Google Colab](https://research.google.com/colaboratory/faq.html) for free.
-* It is better to pick a [competition dataset](https://www.kaggle.com/competitions) than one from the [dataset archive](https://www.kaggle.com/datasets) unless you have an idea about how to formulate the problem and choose evaluation metrics. Must check with a quick baseline model that the performance is not inappreciable for the formulated problem with respect to the decided metrics. 
-
-
-
 
 ### Topics covered in the guided sessions and hands-on exercises:  
 Session 1: Exploratory Data Analysis and Feature Engineering using Pandas - 1
