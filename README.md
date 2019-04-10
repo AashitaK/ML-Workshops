@@ -46,7 +46,7 @@ Session 2: Exploratory Data Analysis and Feature Engineering using Pandas - 2
 - Concatentating and merging dataframes 
 - More operations such as sorting the rows, creating a dataframe from the scratch, etc. 
 
-Session 3: Model Building, Tuning and Testing - 1
+Session 3: Model Building, Tuning and Testing with Scikit-learn - 1
 - Overfitting and underfitting of models
 - Regression algorithms 
     - Linear regression
@@ -60,7 +60,7 @@ Session 3: Model Building, Tuning and Testing - 1
 - Evaluation metrics for regression - R-squared and root mean-squared error (RMSE)
 - Normalization and scaling of features
     
-Session 4: Model Building, Tuning and Testing - 2
+Session 4: Model Building, Tuning and Testing with Scikit-learn - 2
 - Classification algorithms 
     - Logistic regression
     - Decision trees
@@ -76,7 +76,7 @@ Session 4: Model Building, Tuning and Testing - 2
 * Python programming basics (HMC CS-5 or equivalent should suffice)
 * Some familiarity with common statistical concepts (HMC MATH-35 or equivalent should suffice)
 
-It will be beyond the scope of the workshop series to cover the theory and mathematics behind the machine learning algorithms and participants are encouraged to learn them on their own and deepen their understanding. A gentle introduction will be covered in the workshop series and resource links will be given for self-study. The focus will be on the practical aspects of machine learning and the concepts like feature engineering, overfitting vs underfitting, cross-validation, etc. that are crucial for all varieties of machine learning algorithms, including deep neural networks that will be covered in a future Deep Learning series.
+It will be beyond the scope of the workshop series to cover the theory and mathematics behind the machine learning algorithms in depth and participants are encouraged to learn them on their own and deepen their understanding. A gentle and intuitive introduction will be covered in the workshop series and resource links will be given for self-study. The focus will be on the practical aspects of machine learning and the concepts like feature engineering, overfitting vs underfitting, cross-validation, etc. that are crucial for all varieties of machine learning algorithms, including deep neural networks that will be covered in a future Deep Learning series.
 
 ### Learning materials:
 The learning material is shared on [Github](https://github.com/AashitaK/ML-Workshops) and is updated after every session. The material is designed to be self-sufficient and useful. You are also welcome to join our google group [HMC Machine Learning](https://groups.google.com/forum/#!forum/hmc-machine-learning) that we plan to use for the workshop as well as for the future activities.
