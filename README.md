@@ -56,7 +56,6 @@ Session 3: Model Building, Tuning and Validation using Scikit-learn - 1
     - Elastic Net regression
 - Model validation
 - Hypertuning regularization paramter
-- Hypertuning learning rate
 - Evaluation metrics for regression - R-squared and root mean-squared error (RMSE)
 - Normalization and scaling of features
     
