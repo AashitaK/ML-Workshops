@@ -53,7 +53,6 @@ Session 3: Model Building, Tuning and Validation using Scikit-learn - 1
     - Polynomial regression
     - Rigde regression
     - Lasso regression
-    - Elastic Net regression
 - Model validation
 - Hypertuning regularization paramter
 - Evaluation metrics for regression - R-squared and root mean-squared error (RMSE)
