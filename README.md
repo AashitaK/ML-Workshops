@@ -3,7 +3,7 @@
 The workshop series is designed with a focus on the practical aspects of machine learning. We will be working in Python and using real-world datasets from [Kaggle](https://www.kaggle.com), the machine learning platform most suited for the “learn-by-doing” philosophy. The series is targeted towards complete beginners familiar with Python, but it is also designed adaptively so that you will be challenged even if you have some familiarity with machine learning tools. 
 
 
-The four-session workshop is going to be very hands-on and will focus on how to work with datasets. Instead of comprehensively covering every tool and concept, you will learn the minimal but most useful tools and concepts quickly and how to find other resources to explore further.  
+The four-session workshop is going to be very hands-on and will focus on how to work with datasets. Instead of comprehensively covering every tool and concept, you will learn the minimal but most useful tools and concepts quickly and learn how to find resources to explore further.  
 
 Timeline:   
 Session 1: 5:30-7:30 pm on Thursday March 28, 2019 at Aviation Room, HMC   
@@ -53,7 +53,6 @@ Session 3: Model Building, Tuning and Validation using Scikit-learn - 1
     - Polynomial regression
     - Rigde regression
     - Lasso regression
-    - Elastic Net regression
 - Model validation
 - Hypertuning regularization paramter
 - Evaluation metrics for regression - R-squared and root mean-squared error (RMSE)
@@ -68,8 +67,8 @@ Session 4: Model Building, Tuning and Validation using Scikit-learn - 2
     - Random forests
 - Evaluation metrics for classification - accuracy, precision, recall, F-1 score, ROC curve, etc.
 - Dimensionality reduction techniques such as Principal Component Analysis (PCA), etc.
-- Bootstrapping models
 - k-fold cross-validation
+- Maximum voting classifiers
 
 ### Pre-requisites:
 * Python programming basics (HMC CS-5 or equivalent should suffice)
