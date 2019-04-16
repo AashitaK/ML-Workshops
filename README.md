@@ -67,8 +67,8 @@ Session 4: Model Building, Tuning and Validation using Scikit-learn - 2
     - Random forests
 - Evaluation metrics for classification - accuracy, precision, recall, F-1 score, ROC curve, etc.
 - Dimensionality reduction techniques such as Principal Component Analysis (PCA), etc.
-- Bootstrapping models
 - k-fold cross-validation
+- Maximum voting classifiers
 
 ### Pre-requisites:
 * Python programming basics (HMC CS-5 or equivalent should suffice)
