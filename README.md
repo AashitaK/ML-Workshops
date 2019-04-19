@@ -78,18 +78,18 @@ It will be beyond the scope of the workshop series to cover the theory and mathe
 
 ### Learning materials:
 The learning material is shared in the [Github repository](https://github.com/AashitaK/ML-Workshops). You can download the entire repository and run the notebooks in your system by installing Jupyter notebooks using [Anaconda distribution with python 3 version](https://www.anaconda.com/distribution/). Another option would be to fork the notebooks from the following links and run it using Kaggle Kernels - a cloud computing environment that does not require any installation.  
-1. Session 1
+* Session 1
     * [Introductory notebook](https://www.kaggle.com/aashita/introduction-to-ml-workshop-series)
     * [Guided Session 1](https://www.kaggle.com/aashita/guided-session-1)
     * [Exercise 1](https://www.kaggle.com/aashita/exercise-1)
-2. Session 2
+* Session 2
     * [Guided Session 2](https://www.kaggle.com/aashita/guided-session-2)
     * [Exercise 2](https://www.kaggle.com/aashita/exercise-2)
-3. Session 3
+* Session 3
     * [Guided Session 3](https://www.kaggle.com/aashita/guided-session-3)
     * [Regression algorithms](https://www.kaggle.com/aashita/regression-algorithms)
     * [Exercise 3](https://www.kaggle.com/aashita/exercise-3) (Bike Share Demand competition)
-4. Session 4
+* Session 4
     * [Classification algorithms](https://www.kaggle.com/aashita/classification-algorithms)
     * [Miscellaneous concepts in Machine Learning](https://www.kaggle.com/aashita/guided-session-4)
     * [Exercise 4](https://www.kaggle.com/aashita/exercise-4) (Titanic competition)
