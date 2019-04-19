@@ -77,7 +77,24 @@ Session 4: Model Building, Tuning and Validation using Scikit-learn - 2
 It will be beyond the scope of the workshop series to cover the theory and mathematics behind the machine learning algorithms in depth and participants are encouraged to learn them on their own and deepen their understanding. A gentle and intuitive introduction will be covered in the workshop series and resource links will be given for self-study. The focus will be on the practical aspects of machine learning and the concepts like feature engineering, overfitting vs underfitting, cross-validation, etc. that are crucial for all varieties of machine learning algorithms, including deep neural networks that will be covered in a future Deep Learning series.
 
 ### Learning materials:
-The learning material is shared on [Github](https://github.com/AashitaK/ML-Workshops) and is updated after every session. The material is designed to be self-sufficient and useful in case you miss a session. 
+The learning material is shared in the [Github repository](https://github.com/AashitaK/ML-Workshops). You can download the entire repository and run the notebooks in your system by installing Jupyter notebooks using [Anaconda distribution with python 3 version](https://www.anaconda.com/distribution/). Another option would be to fork the notebooks from the following links and run it using Kaggle Kernels - a cloud computing environment that does not require any installation.  
+* Session 1
+    * [Introductory notebook](https://www.kaggle.com/aashita/introduction-to-ml-workshop-series)
+    * [Guided Session 1](https://www.kaggle.com/aashita/guided-session-1)
+    * [Exercise 1](https://www.kaggle.com/aashita/exercise-1)
+* Session 2
+    * [Guided Session 2](https://www.kaggle.com/aashita/guided-session-2)
+    * [Exercise 2](https://www.kaggle.com/aashita/exercise-2)
+* Session 3
+    * [Guided Session 3](https://www.kaggle.com/aashita/guided-session-3)
+    * [Regression algorithms](https://www.kaggle.com/aashita/regression-algorithms)
+    * [Exercise 3](https://www.kaggle.com/aashita/exercise-3) (Bike Share Demand competition)
+* Session 4
+    * [Classification algorithms](https://www.kaggle.com/aashita/classification-algorithms)
+    * [Miscellaneous concepts in Machine Learning](https://www.kaggle.com/aashita/guided-session-4)
+    * [Exercise 4](https://www.kaggle.com/aashita/exercise-4) (Titanic competition)
+
+The solutions for the guided sessions and exercise notebooks are available in the [Github repository](https://github.com/AashitaK/ML-Workshops) but not on Kaggle. The material is designed to be self-sufficient and useful in case you miss a session. 
 
 ### Team:
 Instructor: Aashita Kesarwani  
