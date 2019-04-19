@@ -74,8 +74,6 @@ Session 4: Model Building, Tuning and Validation using Scikit-learn - 2
 * Python programming basics (HMC CS-5 or equivalent should suffice)
 * Some familiarity with common statistical concepts (HMC MATH-35 or equivalent should suffice)
 
-It will be beyond the scope of the workshop series to cover the theory and mathematics behind the machine learning algorithms in depth and participants are encouraged to learn them on their own and deepen their understanding. A gentle and intuitive introduction will be covered in the workshop series and resource links will be given for self-study. The focus will be on the practical aspects of machine learning and the concepts like feature engineering, overfitting vs underfitting, cross-validation, etc. that are crucial for all varieties of machine learning algorithms, including deep neural networks that will be covered in a future Deep Learning series.
-
 ### Learning materials:
 The learning material is shared in the [Github repository](https://github.com/AashitaK/ML-Workshops). You can download the entire repository and run the notebooks in your system by installing Jupyter notebooks using [Anaconda distribution with python 3 version](https://www.anaconda.com/distribution/). Another option would be to fork the notebooks from the following links and run it using Kaggle Kernels - a cloud computing environment that does not require any installation.  
 * Session 1
