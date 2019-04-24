@@ -20,12 +20,12 @@ This series is a precursor to a future Deep Learning workshop series.
 
 Four sessions are planned in the series with the following time allocations:
 
-| Sessions | Guided session (min) | Hands-on exercise (min) | Project work (min) | Total time (min) |
-|----------|:----------:|:----------:|:----------:|:----------------:|
-| 1 | 50 | 70 | - | 120 |
-| 2 | 30 | 80 | 10 | 120 |
-| 3 | 30 | 50  | 40 | 120 |
-| 4 | 30 | 60 | 30 | 120 |
+| Sessions | Guided session (min) | Hands-on exercise (min) | Total time (min) |
+|----------|:----------:|:----------:|:----------------:|
+| 1 | 50 | 70  | 120 |
+| 2 | 30 | 90  | 120 |
+| 3 | 40 | 80 | 120 |
+| 4 | 90 | 30 | 120 |
 
 ### Topics covered in the guided sessions and hands-on exercises:  
 Session 1: Exploratory Data Analysis and Feature Engineering using Pandas - 1
