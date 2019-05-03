@@ -65,8 +65,15 @@ Session 4: Model Building, Tuning and Validation using Scikit-learn - 2
     - k-nearest neighbors
     - Support vector machines
     - Random forests
-- Evaluation metrics for classification - accuracy, precision, recall, F-1 score, ROC curve, etc.
-- Dimensionality reduction techniques such as Principal Component Analysis (PCA), etc.
+- Evaluation metrics for classification 
+    - Classification accuracy
+    - Confusion matrix
+    - Decision Threshold
+    - Precision and Recall
+    - F1 score
+    - Area Under ROC curve
+- Dimensionality reduction (Optional)
+    - Principal Component Analysis (PCA)
 - k-fold cross-validation
 - Maximum voting classifiers
 
