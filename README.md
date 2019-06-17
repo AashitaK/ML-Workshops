@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AashitaK/ML-Workshops/master)
+
 ### Introduction:
 
 The workshop series is designed with a focus on the practical aspects of machine learning. We will be working in Python and using real-world datasets from [Kaggle](https://www.kaggle.com), the machine learning platform most suited for the “learn-by-doing” philosophy. The series is targeted towards complete beginners familiar with Python, but it is also designed adaptively so that you will be challenged even if you have some familiarity with machine learning tools. 
