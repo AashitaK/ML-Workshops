@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AashitaK/ML-Workshops/master)
+
 ### Introduction:
 
 The workshop series is designed with a focus on the practical aspects of machine learning. We will be working in Python and using real-world datasets from [Kaggle](https://www.kaggle.com), the machine learning platform most suited for the “learn-by-doing” philosophy. The series is targeted towards complete beginners familiar with Python, but it is also designed adaptively so that you will be challenged even if you have some familiarity with machine learning tools. 
@@ -36,7 +38,7 @@ Session 1: Exploratory Data Analysis and Feature Engineering using Pandas - 1
 - Detecting and filling missing values in the dataframes 
 - Regular expressions for data extraction
 - Feature engineering such as creating new features 
-- Basic plots
+- Basic statistical plots using `matplotlib` and `seaborn`
 - Correlation among features
 - Basic operations such as dropping rows/columns, setting index, replacing values of a column using a dictionary, etc.
 
@@ -49,22 +51,22 @@ Session 2: Exploratory Data Analysis and Feature Engineering using Pandas - 2
 Session 3: Model Building, Tuning and Validation using Scikit-learn - 1
 - Overfitting and underfitting of models
 - Regression algorithms 
-    - Linear regression
-    - Polynomial regression
-    - Rigde regression
-    - Lasso regression
-- Model validation
-- Hypertuning regularization paramter
-- Evaluation metrics for regression - R-squared and root mean-squared error (RMSE)
+    - Linear Regression
+    - Polynomial Regression
+    - Rigde Regression
+    - Lasso Regression
+- Model Validation
+- Tuning regularization paramter
+- Evaluation metrics for regression - R-squared and Root Mean-Squared Error (RMSE)
 - Normalization and scaling of features
     
 Session 4: Model Building, Tuning and Validation using Scikit-learn - 2
 - Classification algorithms 
-    - Logistic regression
-    - Decision trees
-    - k-nearest neighbors
-    - Support vector machines
-    - Random forests
+    - Logistic Regression
+    - Decision Trees
+    - k-Nearest Neighbors
+    - Support Vector Machines
+    - Random Forests
 - Evaluation metrics for classification 
     - Classification accuracy
     - Confusion matrix
@@ -74,8 +76,8 @@ Session 4: Model Building, Tuning and Validation using Scikit-learn - 2
     - Area Under ROC curve
 - Dimensionality reduction (Optional)
     - Principal Component Analysis (PCA)
-- k-fold cross-validation
-- Maximum voting classifiers
+- k-fold Cross-validation
+- Maximum Voting Classifiers
 
 ### Pre-requisites:
 * Python programming basics (HMC CS-5 or equivalent should suffice)
